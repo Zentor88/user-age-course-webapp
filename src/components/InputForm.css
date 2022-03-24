@@ -1,0 +1,24 @@
+
+.input {
+  border: 1px solid black;
+  width: 95%;
+  border-radius: 4px;
+  margin: .5rem;
+  padding: .75rem;
+}
+
+.label {
+  margin: .5rem;
+}
+
+.button {
+  background-color: crimson;
+  border: 2px solid white;
+  border-radius: 4px;
+  margin: .25rem .25rem;
+  padding: 0.5rem;
+  color: white;
+}
+.button:hover {
+  background-color: rgb(211, 72, 100);
+}

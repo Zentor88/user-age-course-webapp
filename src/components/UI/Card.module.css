@@ -1,0 +1,16 @@
+.card {
+    
+    max-width: 40rem;
+    background: darkslateblue;
+    border-radius: 4px;
+    box-shadow: 3px 3px 8 px rgb(17, 15, 15);
+    margin: .5rem;
+    padding: .25rem;
+  }
+/* 
+  .card {
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+  }
+   */
